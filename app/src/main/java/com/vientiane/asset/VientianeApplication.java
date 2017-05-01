@@ -20,8 +20,7 @@ public class VientianeApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-
-          int pid = android.os.Process.myPid();
+        int pid = android.os.Process.myPid();
         String curProcessName = getAppName(pid);
         if (TextUtils.isEmpty(curProcessName) || !curProcessName.equals(getPackageName())) {
             return;
