@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/color_E75B5B</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <!-- 启动页的Theme-->
+    <style name="AppSplashTheme" parent="AppBaseTheme">
+        <item name="android:windowBackground">@mipmap/ic_launcher</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppDefaultTheme" parent="AppBaseTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppMainTheme" parent="AppBaseTheme">
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+
+    <style name="divider_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+        <item name="android:background">@color/uthing_color_e0e0e0</item>
+    </style>
+
+
+
+    <!-- 确定按钮通用样式-->
+    <style name="DefaultButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/column_height</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/shape_corner_ff3636</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+</resources>

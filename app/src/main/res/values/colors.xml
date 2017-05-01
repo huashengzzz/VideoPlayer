@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- 透明色值-->
+    <color name="transparent">#00000000</color>
+    <!-- 白色-->
+    <color name="white">#ffffff</color>
+    <!-- 黑色（一级标题色值）-->
+    <color name="black">#000000</color>
+    <!-- 红色-->
+    <color name="red" type="color">#FF0000</color>
+
+    <color name="uthing_color_c89f63">#c89f63</color>
+
+    <!-- 用于普通级段落信息、引导词、正文标题-->
+    <color name="uthing_color_333333">#333333</color>
+
+    <!-- 用于正文文字-->
+    <color name="uthing_color_666666">#666666</color>
+
+    <!-- 用于辅助、次要的文字信息-->
+    <color name="uthing_color_999999">#999999</color>
+
+    <!-- 用于分割线、分割区域描边-->
+    <color name="uthing_color_e0e0e0">#e0e0e0</color>
+
+    <!-- 用于内容区域的底色-->
+    <color name="uthing_color_f2f2f2">#f2f2f2</color>
+
+    <color name="uthing_color_f7f7f7">#f7f7f7</color>
+
+    <color name="uthing_color_fcfcfc">#fcfcfc</color>
+
+    <color name="uthing_color_b2000000">#b2000000</color>
+
+    <color name="uthing_color_ff4949">#ff4949</color>
+    <color name="uthing_color_ff6b6b">#ff6b6b</color>
+    <color name="uthing_color_f3e8d6">#f3e8d6</color>
+    <color name="uthing_color_d6d6d6">#d6d6d6</color>
+    <color name="uthing_color_fafafa">#fafafa</color>
+    <color name="uthing_color_cccccc">#cccccc</color>
+    <color name="uthing_color_7fc89f63">#7fc89f63</color>
+    <color name="uthing_color_fecd43">#fecd43</color>
+    <color name="color_1e1e1e">#1e1e1e</color>
+    <color name="color_353535">#353535</color>
+    <color name="color_E75B5B">#E75B5B</color>
+    <color name="color_FF3636">#FF3636</color>
+    <color name="color_FD8B52">#FD8B52</color>
+    <color name="color_2CA2F4">#2CA2F4</color>
+    <color name="color_969696">#969696</color>
+    <color name="color_d2d2d2">#d2d2d2</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_dcdcdc">#dcdcdc</color>
+    <color name="color_F0F1F9">#F0F1F9</color>
+
+
+
+
+</resources>

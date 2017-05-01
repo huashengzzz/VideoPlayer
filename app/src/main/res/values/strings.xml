@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">录视频</string>
+    <string name="camera_record_again">重新录制</string>
+    <string name="camera_upload">上传视频</string>
+    <string name="camera_uploading">上传中...</string>
+    <string name="camera_upload_sucess">上传成功，下一步</string>
+    <string name="camera_upload_fail">上传失败,重新上传</string>
+</resources>

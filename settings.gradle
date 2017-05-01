@@ -1,0 +1,2 @@
+include ':app','jcvideoplayer-lib'
+project(':jcvideoplayer-lib').projectDir = new File('ThirdPart/jcvideoplayer-lib')
