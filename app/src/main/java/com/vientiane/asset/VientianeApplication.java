@@ -20,8 +20,8 @@ public class VientianeApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        // 多进程导致多次初始化Application,这里只初始化App主进程的Application
-        int pid = android.os.Process.myPid();
+
+          int pid = android.os.Process.myPid();
         String curProcessName = getAppName(pid);
         if (TextUtils.isEmpty(curProcessName) || !curProcessName.equals(getPackageName())) {
             return;
